@@ -77,7 +77,7 @@ lib/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/J33WAKASUPUN/Whispr-Chat-Application-.git
+git clone https://github.com/J33WAKASUPUN/Whispr-Chat-Application.git
 cd whispr
 ```
 
