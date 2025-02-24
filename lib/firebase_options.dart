@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBf_ebKko-A_z3jNYXXtCGTYWu3QQBtXoE',
-    appId: '1:799855540206:android:e0752fa9ab39de34bfc0ff',
-    messagingSenderId: '799855540206',
-    projectId: 'whispr-chat-app',
-    storageBucket: 'whispr-chat-app.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAoTZd5w3f52Ct96wv7R98M3T5FluFk4B0',
-    appId: '1:799855540206:ios:f673405db1ad5ad4bfc0ff',
-    messagingSenderId: '799855540206',
-    projectId: 'whispr-chat-app',
-    storageBucket: 'whispr-chat-app.firebasestorage.app',
-    iosBundleId: 'com.example.whisprChatApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
