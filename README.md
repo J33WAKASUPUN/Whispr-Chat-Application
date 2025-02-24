@@ -2,7 +2,7 @@
 
 Whispr is a modern, feature-rich chat application built with Flutter and Firebase, offering a seamless and intuitive messaging experience with customizable themes.
 
-![Whispr Chat App](https://github.com/yourusername/whispr/raw/main/screen_shots/banner.png)
+![Whispr Chat App](screen_shots/whispr_chat_app.png)
 
 ## ✨ Features
 
@@ -19,14 +19,9 @@ Whispr is a modern, feature-rich chat application built with Flutter and Firebas
 
 <table>
   <tr>
-    <td><img src="screen_shots/light_theme.png" width="200"/></td>
-    <td><img src="screen_shots/dark_theme.png" width="200"/></td>
-    <td><img src="screen_shots/chat_screen.png" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="screen_shots/signup.png" width="200"/></td>
-    <td><img src="screen_shots/settings.png" width="200"/></td>
-    <td><img src="screen_shots/emoji_picker.png" width="200"/></td>
+    <td><img src="screen_shots/whispr_chat_app_1.png" width="200"/></td>
+    <td><img src="screen_shots/whispr_chat_app_3.png" width="200"/></td>
+    <td><img src="screen_shots/whispr_chat_app_2.png" width="200"/></td>
   </tr>
 </table>
 
@@ -82,7 +77,7 @@ lib/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/whispr.git
+git clone https://github.com/J33WAKASUPUN/Whispr-Chat-Application-.git
 cd whispr
 ```
 
