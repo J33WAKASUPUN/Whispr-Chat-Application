@@ -39,6 +39,7 @@ Whispr is a modern, feature-rich chat application built with Flutter and Firebas
 ```
 lib/
 ├── main.dart                      # App entry point
+├── firebase_options.dart          # Firebase setup
 ├── components/                    # Reusable UI components
 │   ├── emoji_picker_panel.dart    # Emoji selection panel
 │   ├── my_button.dart             # Custom button widget
@@ -46,23 +47,23 @@ lib/
 │   ├── my_textField.dart          # Custom text input
 │   └── user_tile.dart             # User list item
 ├── models/                        # Data models
+│   └── message.dart               # Message model   
 ├── pages/                         # App screens
-│   ├── message_page.dart          # Chat conversation screen
+│   ├── chat_page.dart             # Chat conversation screen
 │   ├── forgot_password_page.dart  # Password recovery
 │   ├── home_page.dart             # Main screen
 │   ├── login_page.dart            # Login screen
 │   ├── register_page.dart         # Sign up screen
 │   └── settings_page.dart         # User preferences
 ├── services/                      # Backend services
-│   ├── auth_dart.dart             # Authentication
+│   ├── auth_gate.dart             # Authentication
 │   ├── auth_service.dart          # Auth helpers
 │   ├── login_or_register.dart     # Auth flow management
 │   ├── chat_service.dart          # Messaging functionality
 │   └── notification_service.dart  # Push notifications
 └── themes/                        # App styling
     ├── theme_dart.dart            # Theme configuration
-    ├── custom_color.dart          # Color schemes
-    └── firebase_options.dart      # Firebase setup
+    └── custom_color.dart          # Color schemes
 ```
 
 ## 🚀 Getting Started
